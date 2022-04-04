@@ -22,5 +22,7 @@
   "devDependencies": {
     "currently": "^0.0.8",
     "nodemon": "^2.0.15"
-  }
+  },
+
+  "proxy": "https://localhost:5000"
 }
